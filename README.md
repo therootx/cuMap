@@ -23,6 +23,6 @@ For detecting current position of the user, we use Wi-Fi signals to get 3 distan
 
 ## Website
 
-(coming soon)
+http://ioturkiye.com/project
 
 
