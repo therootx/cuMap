@@ -20,8 +20,4 @@ This application uses Dijkstra's Shortest Path Algorithm for calculating shortes
 * **Kübra Nur GÜNGÖR** - 
 * **Fatma Nur SEVEN** - 
 
-## Website
-
-http://ioturkiye.com/project
-
 
